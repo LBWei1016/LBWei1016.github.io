@@ -295,3 +295,15 @@ $$
 > $$
 > a_1x_1 + \cdots a_kx_k \pmod {b_1\cdots b_k}.
 > $$
+>
+> Moreover, if we let $B = \prod_i b_i$ and let $B_i = B/b_i$, we have
+>
+> $$
+> x_i = B_i(B_i^{-1} \mod{b_i}).
+> $$
+>
+> Thus, the general solution is
+>
+> $$
+> \sum_{i} a_iB_i(B_i^{-1} \mod{b_i}) \pmod{B}.
+> $$
