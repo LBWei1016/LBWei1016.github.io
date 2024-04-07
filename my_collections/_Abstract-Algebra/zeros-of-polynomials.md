@@ -46,7 +46,7 @@ Use the [division algorithm](../rings-of-polynomials/#division-algorithm-of-poly
   - Since $$\mathbb{F}$$ has no zero divisors and $$a\not=b$$, $$q(b)=0$$.
 
 ### **Corollary (the multiplicative group of a field)**
-> Let $$\mathbb{F}$$ be a field. If $$G$$ is a **finite subgroup** of the multiplicative group $$\mathbb{F}^\times$$, then $$G$$ is **cyclic**. In particular, if $$\mathbb{F}$$ is a **finite field**, then $$\mathbb{F}^{\times}$$ is **cyclic**.
+> Let $$\mathbb{F}$$ be a field of order $$p$$. If $$G$$ is a **finite subgroup** of the multiplicative group $$\mathbb{F}^\times$$, then $$G$$ is **cyclic**. In particular, if $$\mathbb{F}$$ is a **finite field**, then $$\mathbb{F}^{\times}$$ is **cyclic**.
 
 > $$G$$ 當然是 abelian。
 
